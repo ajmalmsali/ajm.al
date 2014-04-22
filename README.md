@@ -92,3 +92,5 @@ Constructed with the following guidelines:
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the [MIT license](LICENSE).
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/d67555e4231f155bcb1f98738b3d0106 "githalytics.com")](http://githalytics.com/ajmalmsali/ajm.al)
+
